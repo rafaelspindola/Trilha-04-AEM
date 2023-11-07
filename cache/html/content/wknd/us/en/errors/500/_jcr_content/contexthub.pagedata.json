@@ -1,0 +1,12 @@
+{
+  "title": "Internal Server Error",
+  "description": "",
+  "path": "/content/wknd/us/en/errors/500",
+  "hits": 0,
+  "navTitle": "Internal Server Error",
+  "template": "/conf/wknd/settings/wcm/templates/content-page-template",
+  "thumbnail": "/conf/wknd/settings/wcm/templates/content-page-template/thumbnail.png",
+  "tags": "",
+  "sitesection": "us",
+  "subsection": "en"
+}

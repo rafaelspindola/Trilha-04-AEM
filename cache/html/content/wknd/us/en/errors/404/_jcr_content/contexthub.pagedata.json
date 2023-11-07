@@ -1,0 +1,12 @@
+{
+  "title": "Page not found",
+  "description": "",
+  "path": "/content/wknd/us/en/errors/404",
+  "hits": 0,
+  "navTitle": "Page not found",
+  "template": "/conf/wknd/settings/wcm/templates/content-page-template",
+  "thumbnail": "/conf/wknd/settings/wcm/templates/content-page-template/thumbnail.png",
+  "tags": "",
+  "sitesection": "us",
+  "subsection": "en"
+}
